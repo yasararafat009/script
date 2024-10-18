@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-echo " This is 2 one" q2
+echo " This is 2 one" q
